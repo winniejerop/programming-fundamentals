@@ -1,4 +1,3 @@
-// implement your solution here
 function createObject(A) {
     var obj = {};
     A.forEach(function(item) {
